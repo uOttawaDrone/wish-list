@@ -1,3 +1,5 @@
+![Logo](https://raw.githubusercontent.com/uOttawaDrone/documentation-procedures/master/img/Logo-Final.png)
+
 # wish-list
 Submit your wish list tickets here!
 
