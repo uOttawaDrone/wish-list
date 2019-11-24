@@ -9,8 +9,7 @@ Submit your wish list tickets here!
 
 ## Information
 
-Before you open your wish list tickets make sure you've done sufficient research.
+Before you open your wish list tickets make sure you've done sufficient research!
 
-Read the guide on making wish list tickets [here.](https://github.com/uOttawaDrone/wish-list/blob/master/docs/HOWTO.md)
-
-Open your wish list tickets [here.](https://github.com/uOttawaDrone/wish-list/issues)
+* Read the guide on making wish list tickets: [HOWTO.md](https://github.com/uOttawaDrone/wish-list/blob/master/docs/HOWTO.md)
+* Open your wish list tickets: [Issues tab](https://github.com/uOttawaDrone/wish-list/issues)
